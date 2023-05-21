@@ -1,0 +1,15 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+
+src/main/java/com/example/demo/invertedindex/index
+
+*.txt
+*.xls
+*.py
+
+out
+gen
